@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "util.h": "c",
+    "timer.h": "c",
+    "screen.h": "c",
+    "types.h": "c"
+  }
+}
